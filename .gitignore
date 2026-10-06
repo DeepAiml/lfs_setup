@@ -1,0 +1,9 @@
+# Archives are published as GitHub Release assets, never committed.
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
