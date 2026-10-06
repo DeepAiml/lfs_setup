@@ -7,3 +7,6 @@
 *.tgz
 *.bz2
 *.xz
+
+# Local-only notes for Claude Code.
+CLAUDE.md
